@@ -1,26 +1,21 @@
-Plugin
-======
-
-
+[Plugin name] [Version]
+=======================
 here goes sth.
-
-v2.7.1
-------
-
-* its very Coll
 
 Author
 ------
-
-you you and... me
-
-Credits go where?
-
 
 Useful links
 ------------
 
 * [to here](http://www.emeneo.com) 
+
+Release history
+===============
+##Version
+* Features
+#Version
+*Features
 
 License
 -------
@@ -33,3 +28,10 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public
 
 You should have received a copy of the GNU General Public License along with this program. If not, see
 <http://www.gnu.org/licenses/>.
+
+h3. test
+h4. test
+### test
+#### test
+
+![alt text](http://www.emeneo.com/images/logo.gif "Title")
