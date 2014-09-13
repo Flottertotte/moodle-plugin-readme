@@ -1,9 +1,13 @@
-[Plugin name] [Version]
+[Name] [Version]
 =======================
-here goes sth.
+[Short description]
 
 Author
 ------
+
+Description
+===========
+
 
 Useful links
 ------------
