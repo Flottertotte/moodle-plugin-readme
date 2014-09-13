@@ -1,12 +1,20 @@
 [Name] [Version]
 =======================
+Maintained by: [lead maintainer 1, lead maintainer 2, lead maintainer 3]
+
 [Short description]
 
-#### Lead Maintainer(s)
-[lead maintainer 1, lead maintainer 2, lead maintainer 3]
 
 Description
 ===========
+
+Installation
+============
+
+General requirements
+--------------------
+How to install
+--------------
 
 
 Useful links
@@ -14,12 +22,11 @@ Useful links
 
 * [to here](http://www.emeneo.com) 
 
+Roadmap
+=======
+
 Release history
 ===============
-##Version
-* Features
-#Version
-*Features
 
 License
 -------
