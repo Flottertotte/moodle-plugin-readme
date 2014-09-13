@@ -3,9 +3,7 @@
 [Short description]
 
 #### Lead Maintainer(s)
-[lead maintainer 1]
-[lead maintainer 2]
-[lead maintainer 3]
+[lead maintainer 1, lead maintainer 2, lead maintainer 3]
 
 Description
 ===========
