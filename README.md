@@ -1,24 +1,30 @@
 [Name] [Version]
 =======================
 Maintained by: [lead maintainer 1, lead maintainer 2, lead maintainer 3]
+Copyright: [copyright}
+License: [license}
 
 [Short description]
 
 
 Description
 ===========
+[Description]
 
 Installation
 ============
+[Installation]
 
-General requirements
---------------------
+Requirements
+------------
+[Requirements]
+
 How to install
 --------------
-
+[How to install]
 
 Useful links
-------------
+============
 
 * [to here](http://www.emeneo.com) 
 
