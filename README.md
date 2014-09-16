@@ -2,7 +2,7 @@
 =======================
 Maintained by: [lead maintainer 1, lead maintainer 2, lead maintainer 3]
 Copyright: [copyright}
-License: [license}
+License: [license], [link to license]
 
 [Short description]
 
@@ -11,49 +11,36 @@ Description
 ===========
 [Description]
 
+
 Installation
 ============
 [Installation]
+
 
 Requirements
 ------------
 [Requirements]
 
+
 How to install
 --------------
 [How to install]
 
+
 Useful links
 ============
-
-* [to here](http://www.emeneo.com) 
-* 
-
-    Moodle Forum: https://moodle.org/mod/forum/discuss.php?d=189334
-    Moodle Plugins Directory: https://moodle.org/plugins/view.php?plugin=enrol_apply
+* Moodle Forum: [link to moodle forum]
+* Moodle Plugins Directory:  [link to moodle plugins directory]
 
 
 Roadmap
 =======
 
+
 Release history
 ===============
 
-License
--------
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as
-published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with this program. If not, see
-<http://www.gnu.org/licenses/>.
 
-h3. test
-h4. test
-### test
-#### test
-
-![alt text](http://www.emeneo.com/images/logo.gif "Title")
