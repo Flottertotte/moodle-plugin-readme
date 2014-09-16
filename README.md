@@ -1,8 +1,8 @@
 [Name] [Version]
 =======================
-Maintained by: [lead maintainer 1, lead maintainer 2, lead maintainer 3]
-Copyright: [copyright}
-License: [license], [link to license]
+* Maintained by: [lead maintainer 1, lead maintainer 2, lead maintainer 3]
+* Copyright: [copyright}
+* License: [license], [link to license]
 
 [Short description]
 
