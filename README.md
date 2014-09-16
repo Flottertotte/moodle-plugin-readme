@@ -27,6 +27,11 @@ Useful links
 ============
 
 * [to here](http://www.emeneo.com) 
+* 
+
+    Moodle Forum: https://moodle.org/mod/forum/discuss.php?d=189334
+    Moodle Plugins Directory: https://moodle.org/plugins/view.php?plugin=enrol_apply
+
 
 Roadmap
 =======
